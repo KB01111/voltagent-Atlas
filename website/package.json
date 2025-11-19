@@ -65,7 +65,7 @@
     "framer-motion": "^10.18.0",
     "headlessui": "^0.0.0",
     "howler": "^2.2.4",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "lucide-react": "^0.476.0",
     "motion": "^12.4.7",
     "prism-react-renderer": "^2.3.0",
